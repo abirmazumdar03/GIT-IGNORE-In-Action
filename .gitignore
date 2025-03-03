@@ -3,3 +3,7 @@
 
 top_secret/
 #It suggest that any files or folder or the top_secret directory itself will not be tracked
+
+danger.txt
+foul.txt
+#It suggest that the file dangr.txt and foul,txt will be ignore
