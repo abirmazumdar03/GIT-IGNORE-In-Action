@@ -1,1 +1,5 @@
+#It suggest that all files with .exe externsion will be ignored of being tracked
 *.exe
+
+top_secret/
+#It suggest that any files or folder or the top_secret directory itself will not be tracked
