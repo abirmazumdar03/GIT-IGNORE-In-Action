@@ -7,3 +7,6 @@ top_secret/
 danger.txt
 #foul.txt    #eleiminated from being tracked
 #It suggest that the file dangr.txt and foul,txt will be ignore
+
+foul.txt 
+#once again eliminated from being track
