@@ -1,0 +1,3 @@
+THIS FILE NAME CONTAINS NON-ASCII CHARACTER
+
+It was allowed to commit after renaming the file
