@@ -1,4 +1,4 @@
-#It suggest that all files with .exe externsion will be ignored of being tracked
+#It suggest that all files with .exe extension will be ignored of being tracked
 *.exe
 
 top_secret/
